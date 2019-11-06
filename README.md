@@ -1,2 +1,2 @@
 # SistemaOne-Pet
-Ssitema para Petshop
+Sitema para Petshop
